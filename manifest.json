@@ -7,10 +7,10 @@
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/thanos7012/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
+        "Version": 1.3
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/thanos7012/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 1
+        "Version": 1.3
     }
 }

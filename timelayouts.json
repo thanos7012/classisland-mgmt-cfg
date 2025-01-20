@@ -1,0 +1,338 @@
+{
+    "Name": "周一至周四",
+    "Layouts": [
+      {
+        "StartSecond": "2023-08-20T07:40:00+08:00",
+        "EndSecond": "2023-08-20T08:20:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T08:20:00+08:00",
+        "EndSecond": "2023-08-20T08:30:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T08:30:00+08:00",
+        "EndSecond": "2023-08-20T09:10:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T09:10:00+08:00",
+        "EndSecond": "2023-08-20T09:20:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T09:20:00+08:00",
+        "EndSecond": "2023-08-20T10:00:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T10:00:00+08:00",
+        "EndSecond": "2023-08-20T10:20:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T10:20:00+08:00",
+        "EndSecond": "2023-08-20T11:00:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T11:00:00+08:00",
+        "EndSecond": "2023-08-20T11:10:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T11:10:00+08:00",
+        "EndSecond": "2023-08-20T11:50:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T11:50:00+08:00",
+        "EndSecond": "2023-08-20T11:55:00+08:00",
+        "TimeType": 2,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T14:00:00+08:00",
+        "EndSecond": "2023-08-20T14:10:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T14:10:00+08:00",
+        "EndSecond": "2023-08-20T14:50:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T14:50:00+08:00",
+        "EndSecond": "2023-08-20T15:05:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T15:05:00+08:00",
+        "EndSecond": "2023-08-20T15:45:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T15:45:00+08:00",
+        "EndSecond": "2023-08-20T15:55:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T15:55:00+08:00",
+        "EndSecond": "2023-08-20T16:35:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T16:35:00+08:00",
+        "EndSecond": "2023-08-20T16:45:00+08:00",
+        "TimeType": 2,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T16:45:00+08:00",
+        "EndSecond": "2023-08-20T17:25:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      }
+    ],
+    "AttachedObjects": {},
+    "IsActive": false
+  }
+  {
+    "Name": "周五",
+    "Layouts": [
+      {
+        "StartSecond": "2023-08-20T07:40:00+08:00",
+        "EndSecond": "2023-08-20T08:20:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T08:20:00+08:00",
+        "EndSecond": "2023-08-20T08:30:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T08:30:00+08:00",
+        "EndSecond": "2023-08-20T09:10:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T09:10:00+08:00",
+        "EndSecond": "2023-08-20T09:20:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T09:20:00+08:00",
+        "EndSecond": "2023-08-20T10:00:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T10:00:00+08:00",
+        "EndSecond": "2023-08-20T10:20:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T10:20:00+08:00",
+        "EndSecond": "2023-08-20T11:00:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T11:00:00+08:00",
+        "EndSecond": "2023-08-20T11:10:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T11:10:00+08:00",
+        "EndSecond": "2023-08-20T11:50:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T11:50:00+08:00",
+        "EndSecond": "2023-08-20T11:55:00+08:00",
+        "TimeType": 2,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T11:55:00+08:00",
+        "EndSecond": "2023-08-20T14:00:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T14:00:00+08:00",
+        "EndSecond": "2023-08-20T14:10:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T14:10:00+08:00",
+        "EndSecond": "2023-08-20T14:50:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T14:50:00+08:00",
+        "EndSecond": "2023-08-20T15:05:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T15:05:00+08:00",
+        "EndSecond": "2023-08-20T15:45:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T15:45:00+08:00",
+        "EndSecond": "2023-08-20T15:55:00+08:00",
+        "TimeType": 1,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T15:55:00+08:00",
+        "EndSecond": "2023-08-20T16:35:00+08:00",
+        "TimeType": 0,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      },
+      {
+        "StartSecond": "2023-08-20T16:35:00+08:00",
+        "EndSecond": "2023-08-20T16:40:00+08:00",
+        "TimeType": 2,
+        "IsHideDefault": false,
+        "DefaultClassId": "",
+        "AttachedObjects": {},
+        "IsActive": false
+      }
+    ],
+    "AttachedObjects": {},
+    "IsActive": false
+  }

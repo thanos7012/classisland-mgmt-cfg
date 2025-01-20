@@ -83,7 +83,7 @@
         },
         "历史": {
             "Name": "历史",
-            "Initial": "史",
+            "Initial": "历",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
